@@ -1,0 +1,90 @@
+body{
+  margin: 0;
+  }
+
+  p{
+    line-height: 2;
+    font-family: Montserrat;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0;
+
+  }
+
+  h1{
+    line-height: 0.85;
+    font-weight: bolder;
+    font-family: Merienda;
+    font-size: 300%;
+    margin: 50px auto 30px auto;
+    padding: 20px;
+
+  }
+
+  h3{
+    padding-left: 20px;
+    font-family: Montserrat;
+    margin: 20px auto 0 auto;
+    font-weight: bold;
+  }
+
+  h2{
+    line-height: 2;
+    padding-left: 20px;
+    font-family: Montserrat;
+    /* font-size: 2; */
+  }
+
+.landingPage{
+  background-color: #50CB93;
+  height: 700px;
+  padding-top: 100px;
+
+}
+
+.saladPic{
+  width: 45%;
+  height: 600px;
+  position:absolute;
+  left: 40px;
+  border-radius: 20px;
+}
+
+.rightHand{
+  background-color: lightgrey;
+  color: green;
+  position: absolute;
+  right: 70px;
+  width: 55%;
+  height: 600px;
+
+
+}
+
+.type{
+  width: 120px;
+  height: 120px;
+  border-radius: 100px;
+
+}
+
+.firstType{
+    display: inline-block;
+    padding-left: 30px;
+
+}
+
+.secondType{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+.thirdType{
+    display: inline-block;
+
+}
+
+.fourthType{
+    display: inline-block;
+    padding-left: 30px;
+}
